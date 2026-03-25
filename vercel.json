@@ -1,6 +1,6 @@
 {
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/.*", "dest": "/lex-buddy-v6 (3).html" }
+    { "src": "/.*", "dest": "/lex-buddy-v7.html" }
   ]
 }
